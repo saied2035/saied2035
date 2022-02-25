@@ -14,11 +14,11 @@
 ### **soft skills:**
 - **I love challenges**
 
-- **Descovering new ideas and cultures**
+- **Discovering new ideas and cultures**
 
 - **I always try to provide help**
 
-- **I prefer learning by doing things on my own to earn new skills or knowladge**
+- **I prefer learning by doing things on my own to earn new skills or knowledge**
 
 
 ### **tech skills:**
