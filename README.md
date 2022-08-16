@@ -33,19 +33,19 @@
   **100 % = I fully understand it**
 <!--START_SECTION:waka-->
 ```text
-SCSS                ████████████████████████▓   100 % 
+SCSS                ████████████████████████▓   100% 
 
-JavaScript          ████████████████████████▓   100 % 
+JavaScript          ████████████████████████▓   100% 
 
-Webpack             ████████████████████████▓   100 %
+Webpack             ████████████████████████▓   100%
 
-Jest                ███████▓                    25 %
+Jest                ████████████████████████▓   100%
 
-React               █████████████████▓          70 %
+React               ████████████████████████▓   100%
 
-Redux               █████████████████▓          70 %
+Redux               ████████████████████████▓   100%
 
-Ruby on Rails       ▓                            0 %
+Ruby on Rails       ████████████████████████▓   100%
 
 ```
 <!--END_SECTION:waka-->
@@ -56,14 +56,10 @@ Ruby on Rails       ▓                            0 %
   
    **The repo link**
   
-  - [to-do list repo](https://github.com/saied2035/toDoList)
+  - [Flightfull repo](https://github.com/saied2035/Flightfull-frontend)
   
-  
-  **Project demonstration:**
-  
-  - [to-do list demonstration](https://www.loom.com/share/146178f575a442568065bb3164698c90?sharedAppSource=personal_library)
   
   **Live link:**
   
-  - [Live Demo](https://saied2035.github.io/toDoList/)
+  - [Live Demo](https://flightfull.netlify.app/)
   
